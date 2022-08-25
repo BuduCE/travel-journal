@@ -37,6 +37,8 @@
 }
 @media screen and (max-width: 1400px) {
     .Tour{
+        /* width: 100%; */
+        /* font-size: 0.8rem; */
         grid-template-columns: 1fr 2fr;
         padding:25px;
     }

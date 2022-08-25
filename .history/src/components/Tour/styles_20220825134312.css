@@ -22,25 +22,7 @@
     width: 70%;
 }
 @media screen and (max-width: 768px){
-    .Tour{
-        width: 100%;
-        /* font-size: 0.8rem; */
-        grid-template-columns: 1fr 2fr;
-        padding:25px;
+    .Home{
+        
     }
-    .tour-desc{
-        width: 90%;
-    }
-    .tour-img > img{
-        height: 20vh;
-    }
-}
-@media screen and (max-width: 1400px) {
-    .Tour{
-        grid-template-columns: 1fr 2fr;
-        padding:25px;
-    }
-    .tour-img > img{
-        height: 12vh;
-    }   
 }

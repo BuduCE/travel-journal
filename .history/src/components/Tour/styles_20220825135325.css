@@ -35,12 +35,6 @@
         height: 20vh;
     }
 }
-@media screen and (max-width: 1400px) {
-    .Tour{
-        grid-template-columns: 1fr 2fr;
-        padding:25px;
-    }
-    .tour-img > img{
-        height: 12vh;
-    }   
+@media scree {
+    
 }

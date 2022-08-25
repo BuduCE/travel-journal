@@ -24,7 +24,7 @@ const Tour = (props) => {
         </div>
 
         <p className='tour-desc'>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi soluta nam animi fugit porro suscipit atque dolores in, saepe.
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi soluta nam animi fugit porro suscipit atque dolores in, saepe
         </p>
       </div>
 
