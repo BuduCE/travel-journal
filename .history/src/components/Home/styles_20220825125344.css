@@ -1,0 +1,11 @@
+.Home{
+    width: 50%;
+    margin: auto;
+}
+.header{
+    background: #F55A5A;
+    text-align: center;
+}
+.tour-list{
+    /* padding: 40px; */
+}
